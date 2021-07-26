@@ -1,11 +1,10 @@
-- 👋 Hi, I’m junjiruw
-- ^____^
-- （三👀ω三） ...
-- 🌱  ...
-- 💞️  ...
-- 📫  ...
-
-<!---
-junjiruw/junjiruw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
+<img src="images/junjiruw_pro.png" width=10%>
